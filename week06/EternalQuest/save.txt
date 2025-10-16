@@ -1,0 +1,4 @@
+60
+SimpleGoal##Simple 1##D S1##10##True
+EternalGoal##Eternal 1##D E1##20
+ChecklistGoal##Checklist 1##D C1##30##2##50##1##False
